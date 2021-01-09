@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### My name is Matheus
 
 <!--
 **matheuscassiano/matheuscassiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 I'm a fullstack developer 
+- 🔭 I’m currently interning on SENAI - AL
+- 🌱 I am currently learning typescript
+- 💬 Ask me about development, mainly Web and Mobile
+- 📫 Contact me matheuscassiano@gmail.com
