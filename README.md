@@ -1,5 +1,4 @@
-### Hi there 👋
-#### My name is Matheus
+### Hi there, I'm Matheus 👋
 
 <!--
 **matheuscassiano/matheuscassiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
