@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 💻 I'm a fullstack developer 
 - 🔭 I’m currently interning on SENAI - AL
-- 🌱 I am currently learning typescript
+- 🌱 I am currently learning Typescript
 - 💬 Ask me about development, mainly Web and Mobile
-- 📫 Contact me matheuscassiano@gmail.com
+- 📫 Contact me matheuscassiano9@gmail.com
