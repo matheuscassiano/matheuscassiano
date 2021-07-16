@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I'm a fullstack developer 
-- 🔭 I’m currently interning on SENAI - AL
+- 🔭 I’m currently interning on Docato
 - 🌱 I am currently learning Typescript
 - 💬 Ask me about development, mainly Web and Mobile
 - 📫 Contact me matheuscassiano9@gmail.com
