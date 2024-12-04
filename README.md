@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I'm a fullstack developer 
-- 🔭 I’m currently interning on SENAI AL
-- 🌱 I am currently learning Azure SDK
+- 🔭 I’m currently interning on Edge
+- 🌱 I am currently learning C# .NET
 - 💬 Ask me about development, mainly Web and Mobile
 - 📫 Contact me matheuscassiano.ts@gmail.com
